@@ -1,2 +1,2 @@
-# python-script
-different scripts from basic to advance 
+# projects
+different languge 
